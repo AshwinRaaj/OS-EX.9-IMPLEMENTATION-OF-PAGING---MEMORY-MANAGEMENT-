@@ -54,6 +54,7 @@ printf("\nThe Physical Address is -- %d",pa);
 }
 ```
 ## OUTPUT: 
-![output1](https://github.com/Shrruthilaya-Gangadaran/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/assets/93427705/73971f4c-c734-4984-b363-49752b1fb34f)
+![output1](https://github.com/AshwinRaaj/OS-EX.9-IMPLEMENTATION-OF-PAGING---MEMORY-MANAGEMENT-/assets/93427047/1322b382-aeb6-4458-9e78-c25b932e72da)
+
 ## RESULT:
 Thus, the implementation of paging technique for memory management is executed successfully.
